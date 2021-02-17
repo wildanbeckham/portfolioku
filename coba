@@ -1,0 +1,45 @@
+<!-- SERVICE -->
+<section>
+	<div id="service">
+		<div class="filter" id="portfolio">
+			<div class="container text-light" style="height: 95vh;">
+				<div class="row pb-3 pt-5 justify-content-center">
+					<h1>Portfolio</h1>
+				</div>
+				<div class="row">
+					<div class="col-sm">
+						<div class="card-body text-center">
+							<h1 class="card-title fab fa-bootstrap"></h1>
+							<h5 class="card-title">Bootstrap</h5>
+							<p class="card-text" id="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat.</p>
+						</div>
+					</div>
+					<div class="col-sm">
+						<div class="card-body text-center">
+							<h1 class="card-title fas fa-fire"></h1>
+							<h5 class="card-title">Codeigniter</h5>
+							<p class="card-text" id="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row pb-5">
+					<div class="card-body text-center">
+						<h1 class="card-title fab fa-react"></h1>
+						<h5 class="card-title">ReactJS</h5>
+						<p class="card-text" id="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+	<!-- SERVICE -->
